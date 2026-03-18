@@ -31,4 +31,3 @@ public class ValidadorPassword {
         return PATRON.matcher(password).matches();
     }
 }
-

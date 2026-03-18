@@ -25,4 +25,3 @@ public class ConversorTemperatura {
         return (fahrenheit - 32.0) * 5.0 / 9.0;
     }
 }
-

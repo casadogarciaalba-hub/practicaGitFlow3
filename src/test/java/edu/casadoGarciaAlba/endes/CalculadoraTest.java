@@ -40,3 +40,4 @@ public class CalculadoraTest {
         assertThrows(IllegalArgumentException.class, () -> calculadora.dividir(10, 0));
     }
 }
+
